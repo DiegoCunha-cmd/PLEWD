@@ -22,7 +22,8 @@ are trying make everyone's lives easier.
 ## Diego Cunha
   Second year student of Information Systems on 
   Amazonas's State University, one of the 
-  founders of the original idea of the app 
+  founders of the original idea of the app
+  Intern at SEPLANCTI, a Government Secretary of Planning 
 ## Erica Amoedo
   Second year student of Information Systems on 
   Amazonas's State University, one of the 
